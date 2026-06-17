@@ -51,4 +51,3 @@ Through this project, I practiced:
 
 B.Tech in Artificial Intelligence & Data Science
 
-GitHub: @stutirai
