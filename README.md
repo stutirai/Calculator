@@ -10,7 +10,9 @@ The project was created to practice JavaScript fundamentals, DOM manipulation, e
 
 ## Project Preview
 
-![Calculator Screenshot](Screenshot.jpeg)
+<p align="center">
+  <img src="Screenshot.jpeg" width="500">
+</p>
 
 ## Features
 
@@ -30,7 +32,7 @@ The project was created to practice JavaScript fundamentals, DOM manipulation, e
 
 ## Live Demo
 
-🔗 Add your GitHub Pages link here
+https://stutirai.github.io/Calculator/
 
 ## Learning Outcomes
 
