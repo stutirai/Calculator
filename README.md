@@ -11,7 +11,7 @@ The project was created to practice JavaScript fundamentals, DOM manipulation, e
 ## Project Preview
 
 <p align="center">
-  <img src="Screenshot.jpeg" width="500">
+  <img src="Screenshot.jpeg" width="300">
 </p>
 
 ## Features
